@@ -4,6 +4,8 @@ body {
   padding-top:120px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   display: block;
   font-family: cursive,"Helvetica", sans-serif;
+   
+
 
 }
 .pull-right{
@@ -19,18 +21,21 @@ h2{
   font-family: vendata;
   font-size: 30px;
   color:#000;
+  font-size: 2.5em;
 }
 
 footer{
   font-size: 15px;
     background-color:#4f4f4f;;
     color: silver;
+    
 }
 
 .well{
       background-color:#0075d1;
       color: #0075d1;
       font-size: 16px;
+
   }
      
 .item{
@@ -40,9 +45,7 @@ footer{
     height: 500px;
      background-size: cover;
 }
-.thumbnail{
-  background-color: #0075d1;
-}
+
 .paneli{
   color:silver;
   font-family: serif;
@@ -52,6 +55,7 @@ footer{
   text-align: center;
   padding-right: 50px;
   padding-left: :20px;
+  box-shadow: 5px 10px 5px #0075d1;
 
 }
 .menu{
@@ -59,14 +63,18 @@ footer{
 
 }
 
+
 .navbar{
   color:#0075d1;
-  background-image: url("")
+
+
+
 }  
 .carousel-caption{
   background-color: #0075d1;
   width: 1000px;
   height: 150px;
   opacity: 0.7;
-    filter: alpha(opacity=50);
+  filter: alpha(opacity=50);
+
 }
