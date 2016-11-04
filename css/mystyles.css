@@ -4,7 +4,7 @@ body {
   padding-top:120px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   display: block;
   font-family: cursive,"Helvetica", sans-serif;
-   
+
 
 
 }
@@ -21,7 +21,7 @@ h2{
   font-family: vendata;
   font-size: 30px;
   color:#000;
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 footer{
@@ -63,7 +63,10 @@ footer{
 
 }
 
+.thumbnail{
 
+  background-color: #0075d1;
+}
 .navbar{
   color:#0075d1;
 
